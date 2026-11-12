@@ -1,0 +1,1 @@
+var e={loaded:[],failed:[]};typeof window<`u`&&(window.__codkAssets=e);function t(t){e.loaded.includes(t)||e.loaded.push(t)}function n(t,n,r){let i=n instanceof Error?n.message:String(n);e.failed.push({asset:t,reason:i}),console.error(`[codk] ${t} could not be loaded (${i}); ${r} is drawn instead.`,n)}export{t as n,n as t};

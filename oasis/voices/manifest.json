@@ -1,0 +1,864 @@
+{
+  "voices": {
+    "chapter-2": {
+      "file": "chapter-2.m4a",
+      "duration": 3.243,
+      "take": "take-4",
+      "text": "كُلَّمَا كَبُرَتِ الْوَاحَةُ، كَثُرَتْ أَسْرَارُهَا."
+    },
+    "chapter-3": {
+      "file": "chapter-3.m4a",
+      "duration": 3.453,
+      "take": "take-5",
+      "text": "هُنَا يَجِبُ أَنْ تَكُونَ كُلُّ خُطْوَةٍ مَحْسُوبَةً."
+    },
+    "chapter-4": {
+      "file": "chapter-4.m4a",
+      "duration": 3.261,
+      "take": "take-6",
+      "text": "بَيْنَ الضَّبَابِ وَالطُّيُورِ وَالْبُيُوتِ الْمُلَوَّنَةِ."
+    },
+    "chapter-5": {
+      "file": "chapter-5.m4a",
+      "duration": 2.913,
+      "take": "take-7",
+      "text": "هُنَا يَجْتَمِعُ كُلُّ مَا تَعَلَّمْتُمُوهُ."
+    },
+    "ending-1": {
+      "file": "ending-1.m4a",
+      "duration": 3.287,
+      "take": "take-8",
+      "text": "أَعَدْتُمُ الْحَيَاةَ إِلَى الْوَاحَةِ، خُطْوَةً خُطْوَةً."
+    },
+    "ending-2": {
+      "file": "ending-2.m4a",
+      "duration": 6.998,
+      "take": "take-8",
+      "text": "تَعَلَّمْتُمُ التَّرْتِيبَ، وَالتَّكْرَارَ، وَالْقَرَارَ، وَتَصْحِيحَ الْخَطَأِ… هَذِهِ هِيَ لُغَةُ الْأَلْوَاحِ."
+    },
+    "ending-3": {
+      "file": "ending-3.m4a",
+      "duration": 5.977,
+      "take": "take-8",
+      "text": "وَالرِّحْلَةُ لَمْ تَنْتَهِ… فِي الصَّحْرَاءِ وَالْجَبَلِ وَالسَّمَاءِ أَسْرَارٌ تَنْتَظِرُكُمْ."
+    },
+    "ending-4": {
+      "file": "ending-4.m4a",
+      "duration": 1.781,
+      "take": "take-8",
+      "text": "أَنَا فَخُورٌ بِكُمْ."
+    },
+    "flag-prompt-green": {
+      "file": "flag-prompt-green.m4a",
+      "duration": 2.08,
+      "take": "interaction-2026-11-12",
+      "text": "ما دلالة اللون الأخضر؟",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12001,
+      "reference": "project grandfather recording"
+    },
+    "flag-prompt-shahada": {
+      "file": "flag-prompt-shahada.m4a",
+      "duration": 2.16,
+      "take": "interaction-2026-11-12",
+      "text": "ما دلالة كلمة التوحيد؟",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12002,
+      "reference": "project grandfather recording"
+    },
+    "flag-prompt-sword": {
+      "file": "flag-prompt-sword.m4a",
+      "duration": 1.76,
+      "take": "interaction-2026-11-12",
+      "text": "ما دلالة السيف؟",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 14003,
+      "reference": "project grandfather recording",
+      "pronunciation": "ما دلالةُ السَّيْف؟"
+    },
+    "flag-prompt-white": {
+      "file": "flag-prompt-white.m4a",
+      "duration": 1.92,
+      "take": "interaction-2026-11-12",
+      "text": "ما دلالة اللون الأبيض؟",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12004,
+      "reference": "project grandfather recording"
+    },
+    "grandfather-begin": {
+      "file": "grandfather-begin.m4a",
+      "duration": 2.52,
+      "take": "take-1",
+      "text": "مُغَامَرَاتُكُمْ تَبْدَأُ الْآنَ."
+    },
+    "grandfather-call": {
+      "file": "grandfather-call.m4a",
+      "duration": 7.369,
+      "take": "take-1",
+      "text": "وَالْآنَ يَا بَطَلُ… دَوْرُكَ أَنْ تُسَاعِدَهُمَا. رَتِّبِ الْأَوَامِرَ، وَدَعِ الْمَاءَ يَعُودُ إِلَى الْجَرَيَانِ."
+    },
+    "grandfather-instruction": {
+      "file": "grandfather-instruction.m4a",
+      "duration": 6.415,
+      "take": "take-1",
+      "text": "إِذَا أَرَدْتُمُ إِعَادَةَ الْحَيَاةِ… افْتَحُوا بَوَّابَةَ الْمَاءِ أَوَّلاً، ثُمَّ شَغِّلُوا السَّاقِيَةَ."
+    },
+    "grandfather-narration": {
+      "file": "grandfather-narration.m4a",
+      "duration": 40.947,
+      "take": "take-1",
+      "text": "فِي هَذِهِ الْوَاحَةِ… كُلُّ قَطْرَةٍ كَانَتْ تَعْرِفُ طَرِيقَهَا. وَكَانَ الْمَاءُ يَسْقِي النَّخْلَ… وَيَمْلَأُ الْمَكَانَ بِالْحَيَاةِ. لَكِنْ فِي يَوْمٍ… تَوَقَّفَتِ السَّاقِيَةُ، وَسَكَتَ صَوْتُ الْمَاءِ. يَا سَارَةُ، يَا فَهْدُ… تَرَكْتُ لَكُمَا سِرَّ الْوَاحَةِ فِي لَوْحٍ قَرِيبٍ مِنَ السَّاقِيَةِ. إِذَا أَرَدْتُمُ إِعَادَةَ الْحَيَاةِ… افْتَحُوا بَوَّابَةَ الْمَاءِ أَوَّلاً، ثُمَّ شَغِّلُوا السَّاقِيَةَ. كُلُّ أَمْرٍ لَهُ أَثَرٌ… وَكُلُّ خُطْوَةٍ لَهَا وَقْتُهَا. وَالْآنَ يَا بَطَلُ… دَوْرُكَ أَنْ تُسَاعِدَهُمَا. رَتِّبِ الْأَوَامِرَ، وَدَعِ الْمَاءَ يَعُودُ إِلَى الْجَرَيَانِ. مُغَامَرَاتُكُمْ تَبْدَأُ الْآنَ."
+    },
+    "grandfather-reward": {
+      "file": "grandfather-reward.m4a",
+      "duration": 4.548,
+      "take": "take-1",
+      "text": "كُلُّ أَمْرٍ لَهُ أَثَرٌ… وَكُلُّ خُطْوَةٍ لَهَا وَقْتُهَا."
+    },
+    "journey-fact-ahsa": {
+      "file": "journey-fact-ahsa.m4a",
+      "duration": 8.4,
+      "take": "interaction-2026-11-12",
+      "text": "الأحساء. واحة الأحساء من أكبر واحات النخيل في العالم، فيها ملايين النخيل والعيون، وهي من مواقع التراث العالمي.",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12021,
+      "reference": "project grandfather recording"
+    },
+    "journey-fact-alula": {
+      "file": "journey-fact-alula.m4a",
+      "duration": 9.9,
+      "take": "interaction-2026-11-12",
+      "text": "العُلا. الحِجر في العُلا مقابر منحوتة في الصخر قبل أكثر من ألفي عام، وهو أول موقع سعودي في قائمة التراث العالمي.",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 14020,
+      "reference": "project grandfather recording",
+      "pronunciation": "العُلا. الحِجْرُ في العُلا مَقابِرُ مَنْحوتَةٌ في الصَّخْرِ قبلَ أكثرَ من أَلْفَيْ عامٍ، وهو أَوَّلُ مَوْقِعٍ سعوديٍّ في قائمةِ التُّراثِ العالَمِيّ."
+    },
+    "journey-fact-asir": {
+      "file": "journey-fact-asir.m4a",
+      "duration": 10.0,
+      "take": "interaction-2026-11-12",
+      "text": "رجال ألمع. في جبال عسير قرية رجال ألمع، بيوتها من الحجر متعددة الطوابق، تزيّنها نقوش القط العسيري الملوّنة.",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 14022,
+      "reference": "project grandfather recording",
+      "pronunciation": "رجال ألمع. في جبال عسير قرية رجال ألمع، بيوتها من الحجر متعددة الطوابق، تُزَيِّنُها نُقوشُ القَطِّ العَسِيرِيِّ المُلوَّنَة."
+    },
+    "journey-fact-dhahran": {
+      "file": "journey-fact-dhahran.m4a",
+      "duration": 13.9,
+      "take": "interaction-2026-11-12",
+      "text": "الظهران. في الظهران تدفّق النفط بكميات تجارية لأول مرة من «بئر الدمام رقم ٧» عام ١٩٣٨م، وسُمّيت بعد ذلك «بئر الخير».",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 14023,
+      "reference": "project grandfather recording",
+      "pronunciation": "الظَّهْران. في الظَّهْران تَدَفَّقَ النَّفْطُ بكمياتٍ تجاريةٍ لأولِ مرةٍ من «بئرِ الدَّمَّامِ رقم سبعة» عام ألف وتسعمائة وثمانية وثلاثين ميلاديًا، وسُمِّيَت بعدَ ذلكَ «بئرَ الخَيْر»."
+    },
+    "journey-fact-diriyah": {
+      "file": "journey-fact-diriyah.m4a",
+      "duration": 7.7,
+      "take": "interaction-2026-11-12",
+      "text": "الدرعية. حي الطريف في الدرعية كان عاصمة الدولة السعودية الأولى، وهو من مواقع التراث العالمي.",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12016,
+      "reference": "project grandfather recording"
+    },
+    "journey-fact-jeddah": {
+      "file": "journey-fact-jeddah.m4a",
+      "duration": 8.6,
+      "take": "interaction-2026-11-12",
+      "text": "جدة. جدة التاريخية «البلد» بيوتها من الحجر المرجاني ورواشينها الخشبية، وهي من مواقع التراث العالمي.",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12019,
+      "reference": "project grandfather recording"
+    },
+    "journey-fact-madinah": {
+      "file": "journey-fact-madinah.m4a",
+      "duration": 6.6,
+      "take": "interaction-2026-11-12",
+      "text": "المدينة المنورة. في المدينة المنورة المسجد النبوي الشريف، ثاني الحرمين الشريفين.",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12018,
+      "reference": "project grandfather recording"
+    },
+    "journey-fact-makkah": {
+      "file": "journey-fact-makkah.m4a",
+      "duration": 7.8,
+      "take": "interaction-2026-11-12",
+      "text": "مكة المكرمة. في مكة المكرمة المسجد الحرام والكعبة المشرّفة، قبلة المسلمين في صلاتهم.",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 14017,
+      "reference": "project grandfather recording",
+      "pronunciation": "مكة المكرمة. في مكة المكرمة المسجد الحرام والكَعْبَةُ المُشَرَّفَةُ، قِبْلَةُ المسلمين في صلاتهم."
+    },
+    "mission-10-hint": {
+      "file": "mission-10-hint.m4a",
+      "duration": 5.359,
+      "take": "take-5",
+      "text": "الْحِفْظُ يَكُونُ آخِرَ شَيْءٍ… بَعْدَ أَنْ نَرَى النُّجُومَ وَنَصِلَ بَيْنَهَا."
+    },
+    "mission-10-intro": {
+      "file": "mission-10-intro.m4a",
+      "duration": 7.937,
+      "take": "take-5",
+      "text": "النُّجُومُ تَرْسُمُ شَكْلاً غَرِيباً… أَوَامِرُ الرَّصْدِ اخْتَلَطَتْ. رَتِّبُوهَا لِكَيْ نَحْفَظَ خَرِيطَةَ السَّمَاءِ."
+    },
+    "mission-10-success": {
+      "file": "mission-10-success.m4a",
+      "duration": 2.84,
+      "take": "take-5",
+      "text": "رَاجِعِ النَّتِيجَةَ قَبْلَ أَنْ تَحْفَظَهَا."
+    },
+    "mission-11-hint": {
+      "file": "mission-11-hint.m4a",
+      "duration": 3.465,
+      "take": "take-5",
+      "text": "انْظُرُوا إِلَى لَوْنِ الثَّمَرَةِ قَبْلَ أَنْ تَقْطِفُوهَا."
+    },
+    "mission-11-intro": {
+      "file": "mission-11-intro.m4a",
+      "duration": 6.598,
+      "take": "take-5",
+      "text": "بَعْضُ الرُّطَبِ نَضِجَ… وَبَعْضُهُ مَا زَالَ أَخْضَرَ. هَلْ نَقْطِفُ كُلَّ شَيْءٍ؟ أَمْ نَخْتَارُ؟"
+    },
+    "mission-11-success": {
+      "file": "mission-11-success.m4a",
+      "duration": 2.989,
+      "take": "take-5",
+      "text": "التَّوْقِيتُ الْمُنَاسِبُ جُزْءٌ مِنَ الْحَلِّ."
+    },
+    "mission-12-hint": {
+      "file": "mission-12-hint.m4a",
+      "duration": 3.583,
+      "take": "take-5",
+      "text": "انْتَبِهُوا لِلْكُثْبَانِ… فِي الطَّرِيقِ مُنْعَطَفَانِ."
+    },
+    "mission-12-intro": {
+      "file": "mission-12-intro.m4a",
+      "duration": 6.682,
+      "take": "take-5",
+      "text": "أَثَرُ الْقَافِلَةِ اخْتَفَى خَلْفَ الْكُثْبَانِ… وَجِّهُوهَا حَتَّى تَصِلَ إِلَى الْبِئْرِ قَبْلَ الْغُرُوبِ."
+    },
+    "mission-12-success": {
+      "file": "mission-12-success.m4a",
+      "duration": 3.132,
+      "take": "take-5",
+      "text": "الْخُطْوَةُ الْمَحْسُوبَةُ تَحْمِينَا مِنَ التِّيهِ."
+    },
+    "mission-13-hint": {
+      "file": "mission-13-hint.m4a",
+      "duration": 5.13,
+      "take": "take-5",
+      "text": "لِكُلِّ مِرْآةٍ دَوْرَةُ ضَبْطٍ وَاحِدَةٌ… لَا أَكْثَرَ وَلَا أَقَلَّ."
+    },
+    "mission-13-intro": {
+      "file": "mission-13-intro.m4a",
+      "duration": 6.171,
+      "take": "take-5",
+      "text": "مَحَطَّةُ الشَّمْسِ تَحْتَاجُ إِلَى ضَوْءٍ… وَلَدَيْنَا أَرْبَعُ مَرَايَا يَجِبُ أَنْ نُوَجِّهَهَا."
+    },
+    "mission-13-success": {
+      "file": "mission-13-success.m4a",
+      "duration": 3.668,
+      "take": "take-5",
+      "text": "الطَّاقَةُ النَّظِيفَةُ تَبْدَأُ مِنْ فِكْرَةٍ مُرَتَّبَةٍ."
+    },
+    "mission-14-hint": {
+      "file": "mission-14-hint.m4a",
+      "duration": 4.542,
+      "take": "take-5",
+      "text": "وَجِّهِ الشَّفَرَاتِ نَحْوَ الرِّيحِ أَوَّلاً… ثُمَّ شَغِّلِ التُّورْبِينَ."
+    },
+    "mission-14-intro": {
+      "file": "mission-14-intro.m4a",
+      "duration": 5.282,
+      "take": "take-5",
+      "text": "التُّورْبِينُ يَدُورُ عَكْسَ الرِّيحِ… هُنَاكَ أَمْرٌ وَاحِدٌ فِي الْمَكَانِ الْخَطَأِ."
+    },
+    "mission-14-success": {
+      "file": "mission-14-success.m4a",
+      "duration": 3.266,
+      "take": "take-5",
+      "text": "أَحْيَاناً سَطْرٌ وَاحِدٌ يُغَيِّرُ النَّتِيجَةَ."
+    },
+    "mission-15-hint": {
+      "file": "mission-15-hint.m4a",
+      "duration": 4.34,
+      "take": "take-6",
+      "text": "اشْحَنُوا الْمَنَارَةَ، وَوَجِّهُوا الضَّوْءَ، ثُمَّ أَرْسِلُوا الْإِشَارَةَ."
+    },
+    "mission-15-intro": {
+      "file": "mission-15-intro.m4a",
+      "duration": 5.421,
+      "take": "take-6",
+      "text": "الْقَافِلَةُ تَنْتَظِرُ إِشَارَةَ الطَّرِيقِ… لَا تُرْسِلْهَا قَبْلَ أَنْ تُجَهِّزَ الضَّوْءَ."
+    },
+    "mission-15-success": {
+      "file": "mission-15-success.m4a",
+      "duration": 2.532,
+      "take": "take-6",
+      "text": "فَكِّرْ بِمَنْ يَنْتَظِرُ إِشَارَتَكَ."
+    },
+    "mission-16-hint": {
+      "file": "mission-16-hint.m4a",
+      "duration": 4.316,
+      "take": "take-6",
+      "text": "إِذَا كَانَ هُنَاكَ عُشٌّ قَرِيبٌ… اسْلُكُوا الطَّرِيقَ الْآمِنَ."
+    },
+    "mission-16-intro": {
+      "file": "mission-16-intro.m4a",
+      "duration": 7.173,
+      "take": "take-6",
+      "text": "الطُّيُورُ عَائِدَةٌ إِلَى أَعْشَاشِهَا… وَالطَّرِيقُ الْقَرِيبُ يَمُرُّ فَوْقَ الْبَيْضِ. أَيَّ طَرِيقٍ نَخْتَارُ؟"
+    },
+    "mission-16-success": {
+      "file": "mission-16-success.m4a",
+      "duration": 4.261,
+      "take": "take-6",
+      "text": "التِّقْنِيَّةُ تَحْمِي الْحَيَاةَ… إِذَا أُحْسِنَ اسْتِخْدَامُهَا."
+    },
+    "mission-17-hint": {
+      "file": "mission-17-hint.m4a",
+      "duration": 4.363,
+      "take": "take-6",
+      "text": "سِيرُوا مَعَ الْجِسْرِ الْحَجَرِيِّ… ثُمَّ انْعَطِفُوا نَحْوَ الْقَرْيَةِ."
+    },
+    "mission-17-intro": {
+      "file": "mission-17-intro.m4a",
+      "duration": 7.667,
+      "take": "take-6",
+      "text": "وَصَلْنَا إِلَى رِجَالِ أَلْمَعَ… الْبُيُوتُ عَلَى جَانِبَيِ الْوَادِي. اكْتُبُوا طَرِيقَ الصَّقْرِ بَيْنَ الْمَمَرَّاتِ."
+    },
+    "mission-17-success": {
+      "file": "mission-17-success.m4a",
+      "duration": 3.292,
+      "take": "take-6",
+      "text": "الْمَعَالِمُ تُسَاعِدُنَا عَلَى قِرَاءَةِ الطَّرِيقِ."
+    },
+    "mission-18-hint": {
+      "file": "mission-18-hint.m4a",
+      "duration": 5.576,
+      "take": "take-6",
+      "text": "عُدَّ الْفَوَانِيسَ عَلَى الدَّرْبِ… وَكُلُّ فَانُوسٍ يَحْتَاجُ إِلَى مَرَّةٍ وَاحِدَةٍ."
+    },
+    "mission-18-intro": {
+      "file": "mission-18-intro.m4a",
+      "duration": 6.344,
+      "take": "take-6",
+      "text": "حَلَّ اللَّيْلُ عَلَى الْقَرْيَةِ… وَالْفَوَانِيسُ مُطْفَأَةٌ. كَمْ مَرَّةً نُكَرِّرُ أَمْرَ الْإِضَاءَةِ؟"
+    },
+    "mission-18-success": {
+      "file": "mission-18-success.m4a",
+      "duration": 3.286,
+      "take": "take-6",
+      "text": "تَكْرَارُ الْأَمْرِ يَصْنَعُ أَثَراً كَبِيراً."
+    },
+    "mission-19-hint": {
+      "file": "mission-19-hint.m4a",
+      "duration": 5.992,
+      "take": "take-7",
+      "text": "عَايِرُوا الْعَدَسَةَ أَوَّلاً، ثُمَّ وَجِّهُوا التِّلِسْكُوبَ، وَأَخِيراً الْتَقِطُوا الصُّورَةَ."
+    },
+    "mission-19-intro": {
+      "file": "mission-19-intro.m4a",
+      "duration": 6.957,
+      "take": "take-7",
+      "text": "مِنْ مَرْصَدِ الْعُلَا نُرِيدُ أَنْ نَرَى كَوْكَباً بَعِيداً… لَكِنَّ الْعَدَسَةَ تَبْحَثُ فِي الِاتِّجَاهِ الْخَطَأِ."
+    },
+    "mission-19-success": {
+      "file": "mission-19-success.m4a",
+      "duration": 3.659,
+      "take": "take-7",
+      "text": "الْمَعْرِفَةُ تَبْدَأُ بِسُؤَالٍ… ثُمَّ مُلَاحَظَةٍ."
+    },
+    "mission-20-hint": {
+      "file": "mission-20-hint.m4a",
+      "duration": 4.707,
+      "take": "take-7",
+      "text": "لَا تَزْرَعُوا قَبْلَ أَنْ يَصِلَ الْمَاءُ… وَالْمَاءُ يَحْتَاجُ إِلَى طَاقَةٍ."
+    },
+    "mission-20-intro": {
+      "file": "mission-20-intro.m4a",
+      "duration": 7.009,
+      "take": "take-7",
+      "text": "هَذِهِ وَاحَةُ الْمُسْتَقْبَلِ يَا أَحْبَابِي… طَاقَةٌ، وَمَاءٌ، وَزَرْعٌ. رَتِّبُوا تَشْغِيلَهَا."
+    },
+    "mission-20-success": {
+      "file": "mission-20-success.m4a",
+      "duration": 4.248,
+      "take": "take-7",
+      "text": "الْمُسْتَقْبَلُ يَبْدَأُ بِفِكْرَةٍ… وَيَكْبُرُ بِتَعَاوُنِكُمْ."
+    },
+    "mission-3-hint": {
+      "file": "mission-3-hint.m4a",
+      "duration": 3.671,
+      "take": "take-3",
+      "text": "تَقَدَّمُوا أَوَّلاً… ثُمَّ انْعَطِفُوا مَعَ الطَّرِيقِ الصَّاعِدِ."
+    },
+    "mission-3-intro": {
+      "file": "mission-3-intro.m4a",
+      "duration": 7.939,
+      "take": "take-3",
+      "text": "عَلَى الْجِسْرِ الْحَجَرِيِّ… لَوْحِ يَلْمَعُ فِي آخِرِ الطَّرِيقِ. وَجِّهِ الصَّقْرَ خُطْوَةً خُطْوَةً حَتَّى يَصِلَ إِلَيْهِ."
+    },
+    "mission-3-success": {
+      "file": "mission-3-success.m4a",
+      "duration": 3.013,
+      "take": "take-3",
+      "text": "كُلُّ طَرِيقٍ يَبْدَأُ بِخُطْوَةٍ وَاضِحَةٍ."
+    },
+    "mission-4-hint": {
+      "file": "mission-4-hint.m4a",
+      "duration": 4.171,
+      "take": "take-3",
+      "text": "رَاجِعُوا آخِرَ أَمْرٍ فِي اللَّوْحِ… هَلْ لَهُ عَلَاقَةٌ بِالنَّجْمَةِ؟"
+    },
+    "mission-4-intro": {
+      "file": "mission-4-intro.m4a",
+      "duration": 8.257,
+      "take": "take-3",
+      "text": "انْظُرُوا إِلَى السَّمَاءِ… نَجْمَةٌ خَرَجَتْ مِنْ مَكَانِهَا. فِي اللَّوْحِ أَمْرٌ خَاطِئٌ يُبْعِدُهَا، ابْحَثُوا عَنْهُ وَأَصْلِحُوهُ."
+    },
+    "mission-4-success": {
+      "file": "mission-4-success.m4a",
+      "duration": 5.998,
+      "take": "take-3",
+      "text": "أَحْيَاناً لَا تَحْتَاجُ إِلَى كِتَابَةِ شَيْءٍ جَدِيدٍ… بَلْ إِلَى الْعُثُورِ عَلَى الْخَطَأِ وَإِصْلَاحِهِ."
+    },
+    "mission-5-hint": {
+      "file": "mission-5-hint.m4a",
+      "duration": 4.703,
+      "take": "take-3",
+      "text": "لَا نَسْتَطِيعُ أَنْ نَعْكِسَ شَيْئاً لَمْ نَقْرَأْهُ… اقْرَؤُوا النَّصَّ أَوَّلاً."
+    },
+    "mission-5-intro": {
+      "file": "mission-5-intro.m4a",
+      "duration": 7.6,
+      "take": "take-3",
+      "text": "تَرَكْتُ لَكُمْ رِسَالَةً عَلَى اللَّوْحِ… لَكِنَّ حُرُوفَهَا مَقْلُوبَةٌ. رَتِّبُوا الْأَمْرَيْنِ وَانْظُرُوا مَاذَا أَقُولُ لَكُمْ."
+    },
+    "mission-5-success": {
+      "file": "mission-5-success.m4a",
+      "duration": 4.049,
+      "take": "take-3",
+      "text": "أُحِبُّكَ يَا بَطَلُ… وَأُحِبُّ كُلَّ مُحَاوَلَةٍ قُمْتَ بِهَا."
+    },
+    "mission-6-hint": {
+      "file": "mission-6-hint.m4a",
+      "duration": 5.594,
+      "take": "take-4",
+      "text": "لَا تُعْطُوا كُلَّ نَبْتَةٍ الْكَمِيَّةَ نَفْسَهَا… افْحَصُوا نَوْعَهَا أَوَّلاً."
+    },
+    "mission-6-intro": {
+      "file": "mission-6-intro.m4a",
+      "duration": 8.163,
+      "take": "take-4",
+      "text": "الْوَرْدُ وَالصَّبَّارُ فِي حَوْضٍ وَاحِدٍ… الْوَرْدُ ذَبَلَ مِنْ كَثْرَةِ الْمَاءِ، وَالصَّبَّارُ بِخَيْرٍ. كَيْفَ نَسْقِيهِمَا؟"
+    },
+    "mission-6-success": {
+      "file": "mission-6-success.m4a",
+      "duration": 7.635,
+      "take": "take-4",
+      "text": "الْعَدْلُ لَيْسَ أَنْ تُعْطِيَ الْجَمِيعَ الشَّيْءَ نَفْسَهُ… الْعَدْلُ أَنْ تُعْطِيَ كُلَّ وَاحِدٍ مَا يَحْتَاجُ إِلَيْهِ."
+    },
+    "mission-7-hint": {
+      "file": "mission-7-hint.m4a",
+      "duration": 5.227,
+      "take": "take-4",
+      "text": "تَقَدَّمُوا خُطْوَةً، وَانْعَطِفُوا يَسَاراً، ثُمَّ تَقَدَّمُوا خُطْوَتَيْنِ."
+    },
+    "mission-7-intro": {
+      "file": "mission-7-intro.m4a",
+      "duration": 6.074,
+      "take": "take-4",
+      "text": "الْمَنَارَةُ خَلْفَ أَشْجَارِ النَّخِيلِ… اكْتُبُوا لِلصَّقْرِ طَرِيقاً آمِناً بَيْنَهَا."
+    },
+    "mission-7-success": {
+      "file": "mission-7-success.m4a",
+      "duration": 3.092,
+      "take": "take-4",
+      "text": "الْخَرِيطَةُ الْجَيِّدَةُ تَخْتَصِرُ الطَّرِيقَ."
+    },
+    "mission-8-hint": {
+      "file": "mission-8-hint.m4a",
+      "duration": 4.637,
+      "take": "take-4",
+      "text": "عُدَّ السِّلَالَ… كُلُّ سَلَّةٍ تَحْتَاجُ إِلَى دَوْرَةٍ وَاحِدَةٍ."
+    },
+    "mission-8-intro": {
+      "file": "mission-8-intro.m4a",
+      "duration": 7.392,
+      "take": "take-4",
+      "text": "النَّخْلَةُ مَلِيئَةٌ بِالرُّطَبِ… وَلَدَيْنَا خَمْسُ سِلَالٍ فَارِغَةٌ. كَمْ مَرَّةً نُكَرِّرُ الْجَمْعَ؟"
+    },
+    "mission-8-success": {
+      "file": "mission-8-success.m4a",
+      "duration": 2.75,
+      "take": "take-4",
+      "text": "التَّكْرَارُ الْمُنَظَّمُ يُوَفِّرُ الْجَهْدَ."
+    },
+    "mission-9-hint": {
+      "file": "mission-9-hint.m4a",
+      "duration": 5.027,
+      "take": "take-5",
+      "text": "نَظِّفُوا الْقَنَاةَ قَبْلَ أَنْ تَفْتَحُوا الْبَوَّابَةَ… ثُمَّ دَعُوا الْمَاءَ يَجْرِي."
+    },
+    "mission-9-intro": {
+      "file": "mission-9-intro.m4a",
+      "duration": 8.357,
+      "take": "take-5",
+      "text": "الْقَنَاةُ الثَّانِيَةُ لَا يَصِلُ إِلَيْهَا الْمَاءُ… هُنَاكَ ثَلَاثُ خُطُوَاتٍ مُتَرَابِطَةٌ، وَكُلُّ خُطْوَةٍ لَهَا مَكَانُهَا."
+    },
+    "mission-9-success": {
+      "file": "mission-9-success.m4a",
+      "duration": 4.338,
+      "take": "take-5",
+      "text": "عِنْدَمَا تَنْتَظِمُ الْخُطُوَاتُ… تَصِلُ الْبَرَكَةُ إِلَى الْجَمِيعِ."
+    },
+    "narration-begin": {
+      "file": "narration-begin.m4a",
+      "duration": 2.45,
+      "take": "take-1",
+      "text": "مُغَامَرَاتُكُمْ تَبْدَأُ الْآنَ."
+    },
+    "narration-effect": {
+      "file": "narration-effect.m4a",
+      "duration": 4.478,
+      "take": "take-1",
+      "text": "كُلُّ أَمْرٍ لَهُ أَثَرٌ… وَكُلُّ خُطْوَةٍ لَهَا وَقْتُهَا."
+    },
+    "narration-gate": {
+      "file": "narration-gate.m4a",
+      "duration": 4.655,
+      "take": "take-1",
+      "text": "إِذَا أَرَدْتُمُ إِعَادَةَ الْحَيَاةِ… افْتَحُوا بَوَّابَةَ الْمَاءِ أَوَّلاً،"
+    },
+    "narration-life": {
+      "file": "narration-life.m4a",
+      "duration": 3.977,
+      "take": "take-1",
+      "text": "وَكَانَ الْمَاءُ يَسْقِي النَّخْلَ… وَيَمْلَأُ الْمَكَانَ بِالْحَيَاةِ."
+    },
+    "narration-memory": {
+      "file": "narration-memory.m4a",
+      "duration": 4.366,
+      "take": "take-1",
+      "text": "فِي هَذِهِ الْوَاحَةِ… كُلُّ قَطْرَةٍ كَانَتْ تَعْرِفُ طَرِيقَهَا."
+    },
+    "narration-order": {
+      "file": "narration-order.m4a",
+      "duration": 3.806,
+      "take": "take-1",
+      "text": "رَتِّبِ الْأَوَامِرَ، وَدَعِ الْمَاءَ يَعُودُ إِلَى الْجَرَيَانِ."
+    },
+    "narration-secret": {
+      "file": "narration-secret.m4a",
+      "duration": 5.979,
+      "take": "take-1",
+      "text": "يَا سَارَةُ، يَا فَهْدُ… تَرَكْتُ لَكُمَا سِرَّ الْوَاحَةِ فِي لَوْحٍ قَرِيبٍ مِنَ السَّاقِيَةِ."
+    },
+    "narration-silence": {
+      "file": "narration-silence.m4a",
+      "duration": 4.78,
+      "take": "take-1",
+      "text": "لَكِنْ فِي يَوْمٍ… تَوَقَّفَتِ السَّاقِيَةُ، وَسَكَتَ صَوْتُ الْمَاءِ."
+    },
+    "narration-turn": {
+      "file": "narration-turn.m4a",
+      "duration": 3.406,
+      "take": "take-1",
+      "text": "وَالْآنَ يَا بَطَلُ… دَوْرُكَ أَنْ تُسَاعِدَهُمَا."
+    },
+    "narration-wheel": {
+      "file": "narration-wheel.m4a",
+      "duration": 1.751,
+      "take": "take-1",
+      "text": "ثُمَّ شَغِّلُوا السَّاقِيَةَ."
+    },
+    "next-caravan": {
+      "file": "next-caravan.m4a",
+      "duration": 6.4,
+      "take": "interaction-2026-11-12",
+      "text": "التحدي القادم: القافلة إلى البئر. موضوعنا: الخوارزمية والاتجاهات.",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12027,
+      "reference": "project grandfather recording"
+    },
+    "next-clean-earth": {
+      "file": "next-clean-earth.m4a",
+      "duration": 4.8,
+      "take": "interaction-2026-11-12",
+      "text": "التحدي القادم: أرضنا نظيفة. موضوعنا: النظافة والبيئة.",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12032,
+      "reference": "project grandfather recording"
+    },
+    "next-dates": {
+      "file": "next-dates.m4a",
+      "duration": 6.0,
+      "take": "interaction-2026-11-12",
+      "text": "التحدي القادم: قطف الرطب الناضج. موضوعنا: الشرط: إذا… وإلا.",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 14026,
+      "reference": "project grandfather recording",
+      "pronunciation": "التَّحَدِّي القادم: قَطْفُ الرُّطَبِ النَّاضِج. موضوعنا: الشَّرْط: إذا… وإلا."
+    },
+    "next-future-oasis": {
+      "file": "next-future-oasis.m4a",
+      "duration": 6.0,
+      "take": "interaction-2026-11-12",
+      "text": "التحدي القادم: واحة المستقبل. موضوعنا: مشروع يجمع ما تعلّمته.",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 14030,
+      "reference": "project grandfather recording",
+      "pronunciation": "التَّحَدِّي القادم: واحَةُ المُسْتَقْبَل. موضوعنا: مَشْروعٌ يَجْمَعُ ما تَعَلَّمْتَه."
+    },
+    "next-kingdom-journey": {
+      "file": "next-kingdom-journey.m4a",
+      "duration": 6.2,
+      "take": "interaction-2026-11-12",
+      "text": "التحدي القادم: رحلة في أرجاء المملكة. موضوعنا: المعرفة والتراث.",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12031,
+      "reference": "project grandfather recording"
+    },
+    "next-mirrors": {
+      "file": "next-mirrors.m4a",
+      "duration": 5.4,
+      "take": "interaction-2026-11-12",
+      "text": "التحدي القادم: مرايا محطة الشمس. موضوعنا: تكرار مجموعة أوامر.",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12028,
+      "reference": "project grandfather recording"
+    },
+    "next-palm": {
+      "file": "next-palm.m4a",
+      "duration": 4.6,
+      "take": "interaction-2026-11-12",
+      "text": "التحدي القادم: سقي نخلة الجد. موضوعنا: التكرار.",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 14025,
+      "reference": "project grandfather recording",
+      "pronunciation": "التَّحَدِّي القادم: سَقْيُ نَخْلَةِ الجَدّ. موضوعنا: التَّكْرار."
+    },
+    "next-tolerance": {
+      "file": "next-tolerance.m4a",
+      "duration": 5.0,
+      "take": "interaction-2026-11-12",
+      "text": "التحدي القادم: الوسطية والتسامح. موضوعنا: القيم والمواطنة.",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12033,
+      "reference": "project grandfather recording"
+    },
+    "next-turbine": {
+      "file": "next-turbine.m4a",
+      "duration": 4.9,
+      "take": "interaction-2026-11-12",
+      "text": "التحدي القادم: توربين الريح. موضوعنا: تصحيح الأخطاء.",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12029,
+      "reference": "project grandfather recording"
+    },
+    "next-water": {
+      "file": "next-water.m4a",
+      "duration": 5.8,
+      "take": "interaction-2026-11-12",
+      "text": "التحدي القادم: فتح البوابة وتحريك الساقية. موضوعنا: ترتيب الأوامر.",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 14024,
+      "reference": "project grandfather recording",
+      "pronunciation": "التَّحَدِّي القادم: فَتْحُ البوابة وتحريك السَّاقِيَة. موضوعنا: ترتيب الأوامر."
+    },
+    "oasis-follow": {
+      "file": "oasis-follow.m4a",
+      "duration": 5.307,
+      "take": "take-2",
+      "text": "عَادَ الْمَاءُ… لَكِنَّ نَخْلَتِي هُنَاكَ مَا زَالَتْ عَطْشَى. تَعَالَوْا نَرَاهَا."
+    },
+    "oasis-gate-only": {
+      "file": "oasis-gate-only.m4a",
+      "duration": 5.636,
+      "take": "take-2",
+      "text": "انْفَتَحَتِ الْبَوَّابَةُ وَامْتَلَأَ الْحَوْضُ… بَقِيَ أَمْرٌ وَاحِدٌ يُحَرِّكُ السَّاقِيَةَ."
+    },
+    "oasis-mistake": {
+      "file": "oasis-mistake.m4a",
+      "duration": 5.896,
+      "take": "take-2",
+      "text": "وَصَلَ الْمَاءُ إِلَى الْحَوْضِ… لَكِنَّ السَّاقِيَةَ لَمْ تَتَحَرَّكْ. لِمَاذَا فِي رَأْيِكُمْ؟"
+    },
+    "oasis-stalled": {
+      "file": "oasis-stalled.m4a",
+      "duration": 7.122,
+      "take": "take-2",
+      "text": "السَّاقِيَةُ تُحَاوِلُ أَنْ تَدُورَ… لَكِنَّ الْمَاءَ لَمْ يَصِلْ إِلَيْهَا. الْبَوَّابَةُ مَا زَالَتْ مُغْلَقَةً."
+    },
+    "oasis-success": {
+      "file": "oasis-success.m4a",
+      "duration": 3.156,
+      "take": "take-2",
+      "text": "اسْمَعُوا… عَادَ صَوْتُ الْمَاءِ فِي الْقَنَوَاتِ!"
+    },
+    "palm-flooded": {
+      "file": "palm-flooded.m4a",
+      "duration": 5.058,
+      "take": "take-2",
+      "text": "زَادَ الْمَاءُ عَنْ حَاجَتِهَا… حَتَّى الْخَيْرُ إِذَا زَادَ عَنْ حَدِّهِ يَضُرُّ."
+    },
+    "palm-hint": {
+      "file": "palm-hint.m4a",
+      "duration": 4.353,
+      "take": "take-2",
+      "text": "عُدُّوا الْجُذُورَ الظَّاهِرَةَ… وَاسْقُوا كُلَّ جِذْرٍ مَرَّةً وَاحِدَةً."
+    },
+    "palm-intro": {
+      "file": "palm-intro.m4a",
+      "duration": 6.274,
+      "take": "take-2",
+      "text": "هَذِهِ نَخْلَتِي يَا أَحْبَابِي… لَهَا أَرْبَعُ جُذُورٍ، وَكُلُّ جِذْرٍ يَحْتَاجُ إِلَى سَقْيَةٍ."
+    },
+    "palm-success": {
+      "file": "palm-success.m4a",
+      "duration": 4.772,
+      "take": "take-2",
+      "text": "رُطَبَةٌ ذَهَبِيَّةٌ! الصَّبْرُ تَكْرَارٌ… وَالتَّكْرَارُ قُوَّةٌ."
+    },
+    "palm-thirsty": {
+      "file": "palm-thirsty.m4a",
+      "duration": 5.225,
+      "take": "take-2",
+      "text": "اقْتَرَبْتُمْ… النَّخْلَةُ شَرِبَتْ، لَكِنَّهَا مَا زَالَتْ تَحْتَاجُ إِلَى الْمَزِيدِ."
+    },
+    "question-ahsa": {
+      "file": "question-ahsa.m4a",
+      "duration": 2.44,
+      "take": "interaction-2026-11-12",
+      "text": "بماذا تشتهر واحة الأحساء؟",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 14013,
+      "reference": "project grandfather recording",
+      "pronunciation": "بماذا تَشْتَهِرُ واحَةُ الأَحْساء؟"
+    },
+    "question-alula": {
+      "file": "question-alula.m4a",
+      "duration": 2.44,
+      "take": "interaction-2026-11-12",
+      "text": "ما الذي يميّز الحِجر في العُلا؟",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 14012,
+      "reference": "project grandfather recording",
+      "pronunciation": "ما الذي يُمَيِّزُ الحِجْرَ في العُلا؟"
+    },
+    "question-asir": {
+      "file": "question-asir.m4a",
+      "duration": 2.44,
+      "take": "interaction-2026-11-12",
+      "text": "أين تقع قرية رجال ألمع؟",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12014,
+      "reference": "project grandfather recording"
+    },
+    "question-both-sides": {
+      "file": "question-both-sides.m4a",
+      "duration": 3.2,
+      "take": "interaction-2026-11-12",
+      "text": "كيف تُقرأ كلمة التوحيد من خلف العلم؟",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12007,
+      "reference": "project grandfather recording"
+    },
+    "question-dhahran": {
+      "file": "question-dhahran.m4a",
+      "duration": 2.48,
+      "take": "interaction-2026-11-12",
+      "text": "ماذا اكتُشف في بئر الخير بالظهران؟",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12015,
+      "reference": "project grandfather recording"
+    },
+    "question-diriyah": {
+      "file": "question-diriyah.m4a",
+      "duration": 2.84,
+      "take": "interaction-2026-11-12",
+      "text": "بماذا بُنيت بيوت حي الطريف القديمة؟",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12008,
+      "reference": "project grandfather recording"
+    },
+    "question-flag-day": {
+      "file": "question-flag-day.m4a",
+      "duration": 2.64,
+      "take": "interaction-2026-11-12",
+      "text": "متى نحتفل بيوم العلم السعودي؟",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12005,
+      "reference": "project grandfather recording"
+    },
+    "question-half-mast": {
+      "file": "question-half-mast.m4a",
+      "duration": 3.2,
+      "take": "interaction-2026-11-12",
+      "text": "هل يُنكَّس العلم السعودي في أوقات الحِداد؟",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 14006,
+      "reference": "project grandfather recording",
+      "pronunciation": "هل يُنَكَّسُ العَلَمُ السُّعُودِيُّ في أوقاتِ الحِداد؟"
+    },
+    "question-jeddah": {
+      "file": "question-jeddah.m4a",
+      "duration": 2.136,
+      "take": "interaction-2026-11-12",
+      "text": "على أي بحر تقع جدة؟",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 14011,
+      "reference": "project grandfather recording",
+      "pronunciation": "على أيِّ بحرٍ تقعُ جِدَّة؟",
+      "postGainDb": -2.5
+    },
+    "question-madinah": {
+      "file": "question-madinah.m4a",
+      "duration": 3.2,
+      "take": "interaction-2026-11-12",
+      "text": "أيّ الحرمين الشريفين في المدينة المنورة؟",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12010,
+      "reference": "project grandfather recording"
+    },
+    "question-makkah": {
+      "file": "question-makkah.m4a",
+      "duration": 3.1,
+      "take": "interaction-2026-11-12",
+      "text": "إلى أين يتجه المسلمون في صلاتهم؟",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12009,
+      "reference": "project grandfather recording"
+    },
+    "retry-1": {
+      "file": "retry-1.m4a",
+      "duration": 3.991,
+      "take": "take-2",
+      "text": "لَا بَأْسَ… انْظُرُوا مَاذَا حَدَثَ، وَجَرِّبُوا مَرَّةً ثَانِيَةً."
+    },
+    "retry-2": {
+      "file": "retry-2.m4a",
+      "duration": 4.094,
+      "take": "take-2",
+      "text": "الْخَطَأُ مُعَلِّمٌ طَيِّبٌ… عُودُوا إِلَى اللَّوْحِ وَأَصْلِحُوهُ."
+    },
+    "retry-3": {
+      "file": "retry-3.m4a",
+      "duration": 4.058,
+      "take": "take-2",
+      "text": "اقْتَرَبْتُمْ كَثِيراً… غَيِّرُوا شَيْئاً بَسِيطاً وَحَاوِلُوا."
+    },
+    "stage-completion": {
+      "file": "stage-completion.m4a",
+      "duration": 7.1,
+      "take": "interaction-2026-11-12",
+      "text": "أحسنتم يا أبطال. أنتم مبدعون. هيا بنا ننتقل إلى التحدي القادم ونكتشف شيئًا جديدًا.",
+      "engine": "Chatterbox Multilingual V3",
+      "seed": 12000,
+      "reference": "project grandfather recording"
+    }
+  }
+}
