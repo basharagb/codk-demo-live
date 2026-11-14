@@ -183,13 +183,13 @@
     },
     "journey-fact-makkah": {
       "file": "journey-fact-makkah.m4a",
-      "duration": 7.8,
+      "duration": 8.1,
       "take": "interaction-2026-11-12",
       "text": "مكة المكرمة. في مكة المكرمة المسجد الحرام والكعبة المشرّفة، قبلة المسلمين في صلاتهم.",
       "engine": "Chatterbox Multilingual V3",
-      "seed": 14017,
+      "seed": 15017,
       "reference": "project grandfather recording",
-      "pronunciation": "مكة المكرمة. في مكة المكرمة المسجد الحرام والكَعْبَةُ المُشَرَّفَةُ، قِبْلَةُ المسلمين في صلاتهم."
+      "pronunciation": "مَكَّةُ المُكَرَّمَةُ. فِي مَكَّةَ المُكَرَّمَةِ المَسْجِدُ الحَرَامُ وَالكَعْبَةُ المُشَرَّفَةُ، قِبْلَةُ المُسْلِمِينَ فِي صَلَاتِهِمْ."
     },
     "mission-10-hint": {
       "file": "mission-10-hint.m4a",
