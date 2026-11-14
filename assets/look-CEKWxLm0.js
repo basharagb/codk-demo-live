@@ -1,4 +1,4 @@
-import{S as e,x as t}from"./index-c7T5lfi7.js";import{An as n,D as r,Dt as i,E as a,H as o,I as s,Pn as c,Pt as l,Sr as u,St as d,Tt as f,Vn as p,Wn as m,Zt as h,_r as g,_t as _,bt as v,c as y,cr as b,dr as x,g as S,h as C,kt as w,lr as T,nr as E,rr as D,u as O,vr as k,w as A,xt as j}from"./three.core-CKoySubT.js";var M={name:`CopyShader`,uniforms:{tDiffuse:{value:null},opacity:{value:1}},vertexShader:`
+import{S as e,x as t}from"./index-C-YnLX3s.js";import{An as n,D as r,Dt as i,E as a,H as o,I as s,Pn as c,Pt as l,Sr as u,St as d,Tt as f,Vn as p,Wn as m,Zt as h,_r as g,_t as _,bt as v,c as y,cr as b,dr as x,g as S,h as C,kt as w,lr as T,nr as E,rr as D,u as O,vr as k,w as A,xt as j}from"./three.core-CKoySubT.js";var M={name:`CopyShader`,uniforms:{tDiffuse:{value:null},opacity:{value:1}},vertexShader:`
 
 		varying vec2 vUv;
 

@@ -1,0 +1,1 @@
+function e(e,t=[]){let n=new Set(t),r=t=>{if(!(n.has(t)||t.isSprite)){t!==e&&(t.updateMatrix(),t.matrixAutoUpdate=!1);for(let e of t.children)r(e)}};r(e)}export{e as t};
