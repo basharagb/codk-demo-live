@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500">
+  <title>علم المملكة الأردنية الهاشمية</title>
+  <!-- Drawn from the Constitution of Jordan, Article 4: length twice the width; three equal stripes, black, white,
+       green; a red triangle at the hoist, its base the width and its height half the length; a white seven-pointed
+       star in a circle of a fourteenth of the length, centred where the triangle's angle bisectors meet
+       (x = 154.508), one point along the hoist. Star's inner radius half its outer, as commonly drawn. -->
+  <rect width="1000" height="166.667" fill="#000000"/>
+  <rect y="166.667" width="1000" height="166.667" fill="#ffffff"/>
+  <rect y="333.333" width="1000" height="166.667" fill="#007a3d"/>
+  <path d="M0 0 L500 250 L0 500 Z" fill="#ce1126"/>
+  <path d="M154.51 214.29 L162.26 233.91 L182.43 227.73 L171.92 246.03 L189.33 257.95 L168.47 261.13 L170.00 282.18 L154.51 267.86 L139.01 282.18 L140.55 261.13 L119.69 257.95 L137.10 246.03 L126.59 227.73 L146.76 233.91Z" fill="#ffffff"/>
+</svg>
