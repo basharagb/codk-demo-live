@@ -1,0 +1,1 @@
+function e(){throw Error(`Arcware WebSDK not installed: npm i @arcware-cloud/pixelstreaming-websdk, then rebuild`)}export{e as ArcwareInit};
